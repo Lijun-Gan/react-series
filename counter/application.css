@@ -1,0 +1,32 @@
+a {
+    display: flex;
+    /* margin-bottom: 10px; */
+  }
+
+li{
+    list-style-type: none
+}
+
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 20px;
+}
+
+input {
+    width: 60px;
+    margin: 5px 5px;
+}
+button{
+    margin: 0px 1px;
+}
+
+.operator{
+    width: 10px;
+    border: none;
+    text-align: center;
+}
+
+.searchBar{
+    width: 200px;
+}
